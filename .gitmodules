@@ -31,3 +31,18 @@
 [submodule "synth-monome-teletype"]
 	path = synth-monome-teletype
 	url = https://github.com/rhinocerose/synth-monome-teletype
+[submodule "synth-monome-norns-molly_the_poly"]
+	path = synth-monome-norns-molly_the_poly
+	url = https://github.com/rhinocerose/synth-monome-norns-molly_the_poly
+[submodule "synth-monome-norns-metrix"]
+	path = synth-monome-norns-metrix
+	url = https://github.com/rhinocerose/synth-monome-norns-metrix
+[submodule "synth-monome-norns-shield"]
+	path = synth-monome-norns-shield
+	url = https://github.com/rhinocerose/synth-monome-norns-shield
+[submodule "synth-monome-norns-image"]
+	path = synth-monome-norns-image
+	url = https://github.com/rhinocerose/synth-monome-norns-image
+[submodule "synth-monome-norns"]
+	path = synth-monome-norns
+	url = https://github.com/rhinocerose/synth-monome-norns
