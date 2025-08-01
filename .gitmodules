@@ -1,0 +1,33 @@
+[submodule "synth-monome-norns-shield-case-DIY"]
+	path = synth-monome-norns-shield-case-DIY
+	url = https://github.com/rhinocerose/synth-monome-norns-shield-case-DIY
+[submodule "synth-monome-norns-shieldXL"]
+	path = synth-monome-norns-shieldXL
+	url = https://github.com/rhinocerose/synth-monome-norns-shieldXL
+[submodule "synth-monome-MonomeArcClone"]
+	path = synth-monome-MonomeArcClone
+	url = https://github.com/rhinocerose/synth-monome-MonomeArcClone
+[submodule "synth-monome-norns-MONOFA"]
+	path = synth-monome-norns-MONOFA
+	url = https://github.com/rhinocerose/synth-monome-norns-MONOFA
+[submodule "synth-monome-norns-fates"]
+	path = synth-monome-norns-fates
+	url = https://github.com/rhinocerose/synth-monome-norns-fates
+[submodule "synth-monome-aleph"]
+	path = synth-monome-aleph
+	url = https://github.com/rhinocerose/synth-monome-aleph
+[submodule "synth-monome-aleph-hardware"]
+	path = synth-monome-aleph-hardware
+	url = https://github.com/rhinocerose/synth-monome-aleph-hardware
+[submodule "synth-monome-norns-example-mod"]
+	path = synth-monome-norns-example-mod
+	url = https://github.com/rhinocerose/synth-monome-norns-example-mod
+[submodule "synth-monome-tt-busboard"]
+	path = synth-monome-tt-busboard
+	url = https://github.com/rhinocerose/synth-monome-tt-busboard
+[submodule "synth-monome-teletype-hardware"]
+	path = synth-monome-teletype-hardware
+	url = https://github.com/rhinocerose/synth-monome-teletype-hardware
+[submodule "synth-monome-teletype"]
+	path = synth-monome-teletype
+	url = https://github.com/rhinocerose/synth-monome-teletype
