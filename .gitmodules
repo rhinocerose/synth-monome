@@ -46,3 +46,24 @@
 [submodule "synth-monome-norns"]
 	path = synth-monome-norns
 	url = https://github.com/rhinocerose/synth-monome-norns
+[submodule "synth-monome-norns-sines"]
+	path = synth-monome-norns-sines
+	url = https://github.com/rhinocerose/synth-monome-norns-sines
+[submodule "synth-monome-norns-pirate-radio"]
+	path = synth-monome-norns-pirate-radio
+	url = https://github.com/rhinocerose/synth-monome-norns-pirate-radio
+[submodule "synth-monome-norns-awesome-monome-norns"]
+	path = synth-monome-norns-awesome-monome-norns
+	url = https://github.com/rhinocerose/synth-monome-norns-awesome-monome-norns
+[submodule "synth-monome-norns-mx.synths"]
+	path = synth-monome-norns-mx.synths
+	url = https://github.com/rhinocerose/synth-monome-norns-mx.synths
+[submodule "synth-monome-norns-pedalboard"]
+	path = synth-monome-norns-pedalboard
+	url = https://github.com/rhinocerose/synth-monome-norns-pedalboard
+[submodule "synth-monome-norns-beets"]
+	path = synth-monome-norns-beets
+	url = https://github.com/rhinocerose/synth-monome-norns-beets
+[submodule "synth-monome-norns-rpls"]
+	path = synth-monome-norns-rpls
+	url = https://github.com/rhinocerose/synth-monome-norns-rpls
