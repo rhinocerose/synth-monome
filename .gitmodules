@@ -1,0 +1,96 @@
+[submodule "eurorack-monome-telex"]
+	path = eurorack-monome-telex
+	url = git@git-rhino:rhinocerose/eurorack-monome-telex
+	branch = main
+[submodule "synth-monome-MonomeArcClone"]
+	path = synth-monome-MonomeArcClone
+	url = git@git-rhino:rhinocerose/synth-monome-MonomeArcClone
+	branch = main
+[submodule "synth-monome-aleph"]
+	path = synth-monome-aleph
+	url = git@git-rhino:rhinocerose/synth-monome-aleph
+	branch = main
+[submodule "synth-monome-aleph-hardware"]
+	path = synth-monome-aleph-hardware
+	url = git@git-rhino:rhinocerose/synth-monome-aleph-hardware
+	branch = main
+[submodule "synth-monome-norns"]
+	path = synth-monome-norns
+	url = git@git-rhino:rhinocerose/synth-monome-norns
+	branch = main
+[submodule "synth-monome-norns-MONOFA"]
+	path = synth-monome-norns-MONOFA
+	url = git@git-rhino:rhinocerose/synth-monome-norns-MONOFA
+	branch = main
+[submodule "synth-monome-norns-awesome-monome-norns"]
+	path = synth-monome-norns-awesome-monome-norns
+	url = git@git-rhino:rhinocerose/synth-monome-norns-awesome-monome-norns
+	branch = main
+[submodule "synth-monome-norns-beets"]
+	path = synth-monome-norns-beets
+	url = git@git-rhino:rhinocerose/synth-monome-norns-beets
+	branch = main
+[submodule "synth-monome-norns-example-mod"]
+	path = synth-monome-norns-example-mod
+	url = git@git-rhino:rhinocerose/synth-monome-norns-example-mod
+	branch = main
+[submodule "synth-monome-norns-fates"]
+	path = synth-monome-norns-fates
+	url = git@git-rhino:rhinocerose/synth-monome-norns-fates
+	branch = main
+[submodule "synth-monome-norns-image"]
+	path = synth-monome-norns-image
+	url = git@git-rhino:rhinocerose/synth-monome-norns-image
+	branch = main
+[submodule "synth-monome-norns-metrix"]
+	path = synth-monome-norns-metrix
+	url = git@git-rhino:rhinocerose/synth-monome-norns-metrix
+	branch = main
+[submodule "synth-monome-norns-molly_the_poly"]
+	path = synth-monome-norns-molly_the_poly
+	url = git@git-rhino:rhinocerose/synth-monome-norns-molly_the_poly
+	branch = main
+[submodule "synth-monome-norns-mx.synths"]
+	path = synth-monome-norns-mx.synths
+	url = git@git-rhino:rhinocerose/synth-monome-norns-mx.synths
+	branch = main
+[submodule "synth-monome-norns-pedalboard"]
+	path = synth-monome-norns-pedalboard
+	url = git@git-rhino:rhinocerose/synth-monome-norns-pedalboard
+	branch = main
+[submodule "synth-monome-norns-pirate-radio"]
+	path = synth-monome-norns-pirate-radio
+	url = git@git-rhino:rhinocerose/synth-monome-norns-pirate-radio
+	branch = main
+[submodule "synth-monome-norns-rpls"]
+	path = synth-monome-norns-rpls
+	url = git@git-rhino:rhinocerose/synth-monome-norns-rpls
+	branch = main
+[submodule "synth-monome-norns-shield"]
+	path = synth-monome-norns-shield
+	url = git@git-rhino:rhinocerose/synth-monome-norns-shield
+	branch = main
+[submodule "synth-monome-norns-shieldXL"]
+	path = synth-monome-norns-shieldXL
+	url = git@git-rhino:rhinocerose/synth-monome-norns-shieldXL
+	branch = main
+[submodule "synth-monome-norns-shield-case-DIY"]
+	path = synth-monome-norns-shield-case-DIY
+	url = git@git-rhino:rhinocerose/synth-monome-norns-shield-case-DIY
+	branch = main
+[submodule "synth-monome-norns-sines"]
+	path = synth-monome-norns-sines
+	url = git@git-rhino:rhinocerose/synth-monome-norns-sines
+	branch = main
+[submodule "synth-monome-teletype"]
+	path = synth-monome-teletype
+	url = git@git-rhino:rhinocerose/synth-monome-teletype
+	branch = main
+[submodule "synth-monome-teletype-hardware"]
+	path = synth-monome-teletype-hardware
+	url = git@git-rhino:rhinocerose/synth-monome-teletype-hardware
+	branch = main
+[submodule "synth-monome-tt-busboard"]
+	path = synth-monome-tt-busboard
+	url = git@git-rhino:rhinocerose/synth-monome-tt-busboard
+	branch = main
